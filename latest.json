@@ -1,13 +1,13 @@
 {
   "run_id": "33916965466",
   "run_number": "2",
-  "stage": "task",
+  "stage": "deploy",
   "status": "success",
-  "timestamp": "2026-09-04T20:35:23Z",
+  "timestamp": "2026-09-04T20:35:34Z",
   "date": "2026-09-04",
-  "time": "20:35:23",
+  "time": "20:35:34",
   "commit_sha": "87659de34a9c4ee43f1d7a38a09103f8529f307e",
-  "summary": "Task success",
+  "summary": "Pages deployment: success",
   "actor": "abdelaziz1119",
   "source_repo": "abdelaziz1119/automated-pipeline",
   "history": [
@@ -16,6 +16,12 @@
       "status": "success",
       "stage": "task",
       "timestamp": "2026-09-04T20:35:23Z"
+    },
+    {
+      "run_number": "2",
+      "status": "success",
+      "stage": "deploy",
+      "timestamp": "2026-09-04T20:35:34Z"
     }
   ]
 }
